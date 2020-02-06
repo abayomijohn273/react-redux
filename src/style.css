@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(240, 240, 240);
+}
+
+.posts {
+    width: 30%;
+    float: left;
+    padding: 2rem;
+    background-color: slategrey;
+    border: 1px solid darkgray;
+    box-sizing: border-box;
+}
+.posts p{
+    height: 10vh;
+}
+.posts .bold{
+    font-weight: bold;
+}
+.posts p{
+    background-color: transparent;
+    color: white;
+}
